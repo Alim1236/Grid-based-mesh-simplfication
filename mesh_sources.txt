@@ -1,0 +1,12 @@
+xyzrgb_dragon
+https://graphics.stanford.edu/data/3Dscanrep/
+https://github.com/alecjacobson/common-3d-test-models/blob/master/data/xyzrgb_dragon.png
+
+dragon
+https://graphics.stanford.edu/data/3Dscanrep/
+
+cat
+https://free3d.com/3d-model/cat-v1--522281.html
+
+Armadillo
+https://graphics.stanford.edu/data/3Dscanrep/
